@@ -1,0 +1,29 @@
+{
+    "errors": [
+        {
+            "component": "general",
+            "formattedMessage": "/home/fija/coreV1/fijaUniV3/contracts/polygon/Vaults/vaultUSDC/Vault.sol:1040:1: Warning: Source file does not specify required compiler version! Consider adding \"pragma solidity ^0.6.0;\"\n\n^\n",
+            "message": "Source file does not specify required compiler version! Consider adding \"pragma solidity ^0.6.0;\"",
+            "severity": "warning",
+            "sourceLocation": {
+                "end": 50926,
+                "file": "/home/fija/coreV1/fijaUniV3/contracts/polygon/Vaults/vaultUSDC/Vault.sol",
+                "start": 50926
+            },
+            "type": "Warning"
+        }
+    ],
+    "sources": {
+        "/home/fija/coreV1/fijaUniV3/contracts/polygon/Vaults/vaultUSDC/Vault.sol": {
+            "ast": {
+                "absolutePath": "/home/fija/coreV1/fijaUniV3/contracts/polygon/Vaults/vaultUSDC/Vault.sol",
+                "exportedSymbols": {},
+                "id": 1,
+                "nodeType": "SourceUnit",
+                "nodes": [],
+                "src": "50926:0:0"
+            },
+            "id": 0
+        }
+    }
+}

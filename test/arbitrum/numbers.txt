@@ -1,0 +1,30 @@
+approved to uni
+usdc 800
+dai  800
+usdt 600
+
+approved to stra
+usdc   600 by buyer
+dai
+usdt
+
+approved to aave 
+usdc
+dai
+usdt
+
+straCost = 600USDC
+
+
+INVESTING
+STRA= 600USDC
+UNI
+dai = 120
+usdc = 120 * 2 = 240
+usdt = 120
+
+
+
+const daiAmount = ethers.utils.parseEther("800")
+const usdcAmount = "800000000"
+const usdtAmount = "600000000"
